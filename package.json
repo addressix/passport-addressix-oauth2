@@ -1,5 +1,5 @@
 {
-  "name": "passport-addressix",
+  "name": "passport-addressix-oauth2",
   "version": "1.0.0",
   "description": "Passport Strategy for using Addressix OAuth2",
   "main": "./lib",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "/home/baumer/repos/passport-addressix.git"
+    "url": "https://github.com/addressix/passport-addressix-oauth2.git"
   },
   "keywords": [
     "Passport",
@@ -16,7 +16,7 @@
     "oauth2"
   ],
   "author": "Meworla GmbH",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "passport-oauth2": "^1.2.0"
   }
