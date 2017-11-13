@@ -3,6 +3,7 @@
 *~
 node_modules/
 dbtest.js
+typings
 
 # Compiled source #
 ###################
